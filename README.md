@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, my name is Matthew! 👋 
 
-<!--
-**MattO003/MattO003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working to become an **IT professional** and **Cybersecurity** engineer💻.
+- 🎳 I enjoy doing many different things, including **bowling**, **working**, and **using my PC!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've taken a few classes in ***Computer Science*** 👩‍💻 so I am somewhat knowledgable in the **JAVA** language. 
+
+
+- 🚹 SEX: **Male**
+- 🤔 Currently Employed?: **Yes**
+- ⛪ Religion: **Christian**
+- 👁 Eye Color: **Green** 🟢
+- ⚡ Fun fact: One fun fact is that recently I found the time to set up my very own home theater in my basement! Big projector screen 📽, awesome surround audio 🔉, mini fridge 🧊, you name it!
+
